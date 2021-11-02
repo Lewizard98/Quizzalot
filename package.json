@@ -1,0 +1,29 @@
+{
+  "name": "quizzalot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lewizard98/Quizzalot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lewizard98/Quizzalot/issues"
+  },
+  "homepage": "https://github.com/Lewizard98/Quizzalot#readme",
+  "dependencies": {
+    "next": "^12.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.33",
+    "typescript": "^4.4.4"
+  }
+}
